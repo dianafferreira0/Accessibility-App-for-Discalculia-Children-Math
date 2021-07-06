@@ -1,0 +1,6 @@
+O ficheiro desafio.html é de uma template que arranjei.
+Se virem que não serve mais vale arranjar uma nova, 
+tentar editar o js ou fazer do 0.
+
+A esse ficheiro html pertencem os ficheiros 
+../js/quiz_script.js e ../css/quiz_stile.css
